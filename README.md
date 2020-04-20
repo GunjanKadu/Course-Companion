@@ -28,16 +28,18 @@ Clone repository and run the application (Note! Change MySql password in applica
 
 ##### Courses & student groups
 
-1
+![Screenshot](https://github.com/GunjanKadu/Course-Companion/blob/master/img/1.png)
 
 ##### Create questions for peer-review
 
-2
+![Screenshot](https://github.com/GunjanKadu/Course-Companion/blob/master/img/2.png)
 
 ##### Review entry (Student)
 
-3
+![Screenshot](https://github.com/GunjanKadu/Course-Companion/blob/master/img/3.png)
+
 
 ##### View reviews and export to excel or pdf (Teacher)
 
-4
+![Screenshot](https://github.com/GunjanKadu/Course-Companion/blob/master/img/4.png)
+
