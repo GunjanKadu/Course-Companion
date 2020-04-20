@@ -1,6 +1,6 @@
-# CourseMate
+# CourseCompanion
 
-CourseMate is an application for collecting peer reviews from the groups of students. Students can be grouped and each student in the group can review other students that belongs to the same group.
+Course Companion is an application for collecting peer reviews from the groups of students. Students can be grouped and each student in the group can review other students that belongs to the same group.
 
 Students can see only the reviews they have given. The teacher who owns the group can see all reviews from the group. Superuser can add new teachers.
 
@@ -10,6 +10,7 @@ Teacher: admin/admin
 Superuser: super/super
 
 ### Technologies
+
 - Spring Boot
 - MariaDB
 - Thymeleaf
@@ -17,7 +18,7 @@ Superuser: super/super
 
 ### Installation
 
-Install MariaDB and create database called 'coursemate'
+Install MariaDB and create database called 'CourseCompanion'
 
 Clone repository and run the application (Note! Change MySql password in application.properties file).
 
@@ -27,16 +28,16 @@ Clone repository and run the application (Note! Change MySql password in applica
 
 ##### Courses & student groups
 
-![Screenshot](http://juhahinkula.github.com/img/coursemate_groups.png)
+1
 
 ##### Create questions for peer-review
 
-![Screenshot](http://juhahinkula.github.com/img/coursemate_questions.png)
+2
 
 ##### Review entry (Student)
 
-![Screenshot](http://juhahinkula.github.com/img/coursemate_peerreview.png)
+3
 
 ##### View reviews and export to excel or pdf (Teacher)
 
-![Screenshot](http://juhahinkula.github.com/img/coursemate_review.png)
+4
